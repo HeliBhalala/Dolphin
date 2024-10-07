@@ -1,1 +1,1 @@
-git clone https://dolphinflavours.in/dolphinflavours/dolphinflavours.github.io.git
+git clone www.dolphinflavours.in
